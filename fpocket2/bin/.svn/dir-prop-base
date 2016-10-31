@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 58
+pcheck
+Makefile.in
+tpocket
+fpocket
+Makefile
+dpocket
+.deps
+
+END

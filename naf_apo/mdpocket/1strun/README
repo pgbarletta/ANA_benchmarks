@@ -1,0 +1,3 @@
+acá arranqué con el grid density con un isovalue de 1 y luego fui depurando
+el .pdb de salida (del script de mdpocket), limpiando los grids q no quería 
+usar. Fuí depurando os.pdb hasta llegar a 8os.pdb q es final_pocket.pdb

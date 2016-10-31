@@ -1,0 +1,7 @@
+# 10/27/16 15:07:43
+# -p ../dry_naf_apo_154.prmtop
+# Loaded topologies:
+#   ../dry_naf_apo_154.prmtop
+trajin ../naf_apo.nc
+trajout naf_apo.pdb
+go
