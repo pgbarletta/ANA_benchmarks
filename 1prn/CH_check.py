@@ -1,7 +1,7 @@
 from pymol.cgo import *
 from pymol import cmd
 
-cmd.hide("lines")
+#cmd.hide("lines")
 cmd.show("cartoon")
 CH_check = [
 	COLOR,  1,	1,	1,

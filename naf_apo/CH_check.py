@@ -1,10 +1,10 @@
 from pymol.cgo import *
 from pymol import cmd
 
-cmd.hide("lines")
+#cmd.hide("lines")
 cmd.show("cartoon")
 CH_check = [
-	COLOR,  1,	1,	1,
+	COLOR,  1,	0,	0,
 	LINEWIDTH, 1.0,
 	BEGIN, LINES,
 # new cell
