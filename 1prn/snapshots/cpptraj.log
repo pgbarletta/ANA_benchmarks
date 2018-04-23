@@ -1,7 +1,0 @@
-# 10/28/16 09:00:04
-# -p ../1prn_dry.prmtop
-# Loaded topologies:
-#   ../1prn_dry.prmtop
-trajin ../1prn.nc
-trajout 1prn.pdb
-go

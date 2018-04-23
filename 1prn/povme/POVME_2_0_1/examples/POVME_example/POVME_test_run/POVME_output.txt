@@ -1,0 +1,63 @@
+
+If you use POVME in your research, please cite the following reference:
+  Durrant, J. D., C. A. de Oliveira, et al. (2011). "POVME: An algorithm
+  for measuring binding-pocket volumes." J Mol Graph Model 29(5): 773-776.
+
+Parameters:
+	UseDiskNotMemory: False
+	SavePoints: True
+	PointsIncludeRegions: sphere at (65.0, 98.0, 50.0), radius = 16.0
+	PointsIncludeRegions: sphere at (-100.0, -100.0, -100.0), radius = 10.0
+	PointsIncludeRegions: box centered at (100.0, 100.0, 100.0) with x,y,z dimensions of (10.0, 10.0, 10.0)
+	OutputEqualNumPointsPerFrame: True
+	SaveVolumetricDensityMap: True
+	PointsExcludeRegions: sphere at (-100.0, -100.0, -100.0), radius = 10.0
+	PointsExcludeRegions: box centered at (100.0, 100.0, 100.0) with x,y,z dimensions of (10.0, 10.0, 10.0)
+	SavePocketVolumesTrajectory: True
+	SaveIndividualPocketVolumes: True
+	SaveTabbedVolumeFile: True
+	GridSpacing: 1.0
+	NumProcessors: 12
+	ContiguousPocketSeedRegions: sphere at (67.0, 102.0, 57.0), radius = 4.0
+	DistanceCutoff: 1.09
+	OutputFilenamePrefix: ./POVME_test_run/POVME_
+	PDBFileName: 4NSS.pdb
+	ConvexHullExclusion: False
+	ContiguousPointsCriteria: 3
+	CompressOutput: True
+
+Generating the pocket-encompassing point field
+
+Saving the point field as a PDB and NPY file
+	Point field saved to ./POVME_test_run/POVME_point_field.pdb to permit visualization
+	Point field saved to ./POVME_test_run/POVME_point_field.pdb.npy to optionally load for the volume calculation
+
+
+Saving the contiguous-pocket seed points as a PDB file
+	Contiguous-pocket seed points saved to ./POVME_test_run/POVME_contiguous_pocket_seed_points.pdb to permit visualization
+
+
+Reading frames from 4NSS.pdb
+	Further processing frame 3
+	Further processing frame 5
+	Further processing frame 4
+	Further processing frame 1
+	Further processing frame 2
+
+Calculating the pocket volume of each frame
+	Frame 4: 2416.0 A^3
+	Frame 5: 2635.0 A^3
+	Frame 1: 2368.0 A^3
+	Frame 3: 2672.0 A^3
+	Frame 2: 2740.0 A^3
+
+FRAME        | VOLUME (A^3)
+-------------+-------------
+1            | 2368.0
+2            | 2740.0
+3            | 2672.0
+4            | 2416.0
+5            | 2635.0
+
+Execution time = 21.4955878258 sec
+
