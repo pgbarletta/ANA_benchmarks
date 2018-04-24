@@ -1,0 +1,14 @@
+GridSpacing 1.0
+PointsInclusionBox 10 45 30 10 2 2
+DistanceCutoff 1.09
+OutputFilenamePrefix ./sss
+CompressOutput false
+PDBFileName /home/german/Downloads/POVME_2_0_1/lfa_apo.pdb
+ConvexHullExclusion false
+NumProcessors 1
+UseDiskNotMemory false
+SaveIndividualPocketVolumes false
+SavePocketVolumesTrajectory false
+OutputEqualNumPointsPerFrame false
+SaveTabbedVolumeFile false
+SaveVolumetricDensityMap false

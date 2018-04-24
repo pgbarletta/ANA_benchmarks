@@ -1,0 +1,571 @@
+
+If you use POVME in your research, please cite the following reference:
+  Durrant, J. D., C. A. de Oliveira, et al. (2011). "POVME: An algorithm
+  for measuring binding-pocket volumes." J Mol Graph Model 29(5): 773-776.
+
+Parameters:
+	UseDiskNotMemory: False
+	SavePoints: True
+	PointsIncludeRegions: box centered at (38.0, 41.0, 38.0) with x,y,z dimensions of (26.0, 18.0, 18.0)
+	OutputEqualNumPointsPerFrame: True
+	SaveVolumetricDensityMap: True
+	SavePocketVolumesTrajectory: True
+	SaveIndividualPocketVolumes: True
+	SaveTabbedVolumeFile: True
+	GridSpacing: 1.0
+	NumProcessors: 8
+	DistanceCutoff: 1.09
+	OutputFilenamePrefix: ./output/POVME_
+	PDBFileName: /home/german/labo/16/Benchmarks_ANA/ndd_check/pdbs/avg_1prn.pdb
+	ConvexHullExclusion: False
+	ContiguousPointsCriteria: 3
+	CompressOutput: False
+
+Generating the pocket-encompassing point field
+
+Saving the point field as a PDB and NPY file
+	Point field saved to ./output/POVME_point_field.pdb to permit visualization
+	Point field saved to ./output/POVME_point_field.pdb.npy to optionally load for the volume calculation
+
+
+Reading frames from /home/german/labo/16/Benchmarks_ANA/ndd_check/pdbs/avg_1prn.pdb
+	Further processing frame 1
+
+Calculating the pocket volume of each frame
+	Frame 1: 3596.0 A^3
+
+FRAME        | VOLUME (A^3)
+-------------+-------------
+1            | 3596.0
+
+Execution time = 1.1030049324 sec
+
+
+If you use POVME in your research, please cite the following reference:
+  Durrant, J. D., C. A. de Oliveira, et al. (2011). "POVME: An algorithm
+  for measuring binding-pocket volumes." J Mol Graph Model 29(5): 773-776.
+
+Parameters:
+	UseDiskNotMemory: False
+	SavePoints: True
+	PointsIncludeRegions: sphere at (39.0, 42.0, 39.0), radius = 14.0
+	OutputEqualNumPointsPerFrame: True
+	SaveVolumetricDensityMap: True
+	SavePocketVolumesTrajectory: True
+	SaveIndividualPocketVolumes: True
+	SaveTabbedVolumeFile: True
+	GridSpacing: 1.0
+	NumProcessors: 8
+	DistanceCutoff: 1.09
+	OutputFilenamePrefix: ./output/POVME_
+	PDBFileName: /home/german/labo/16/Benchmarks_ANA/ndd_check/pdbs/avg_1prn.pdb
+	ConvexHullExclusion: False
+	ContiguousPointsCriteria: 3
+	CompressOutput: False
+
+Generating the pocket-encompassing point field
+
+Saving the point field as a PDB and NPY file
+	Point field saved to ./output/POVME_point_field.pdb to permit visualization
+	Point field saved to ./output/POVME_point_field.pdb.npy to optionally load for the volume calculation
+
+
+Reading frames from /home/german/labo/16/Benchmarks_ANA/ndd_check/pdbs/avg_1prn.pdb
+	Further processing frame 1
+
+Calculating the pocket volume of each frame
+	Frame 1: 5087.0 A^3
+
+FRAME        | VOLUME (A^3)
+-------------+-------------
+1            | 5087.0
+
+Execution time = 2.07086992264 sec
+
+
+If you use POVME in your research, please cite the following reference:
+  Durrant, J. D., C. A. de Oliveira, et al. (2011). "POVME: An algorithm
+  for measuring binding-pocket volumes." J Mol Graph Model 29(5): 773-776.
+
+Parameters:
+	UseDiskNotMemory: False
+	SavePoints: True
+	PointsIncludeRegions: sphere at (36.0, 39.0, 36.0), radius = 14.0
+	OutputEqualNumPointsPerFrame: True
+	SaveVolumetricDensityMap: True
+	SavePocketVolumesTrajectory: True
+	SaveIndividualPocketVolumes: True
+	SaveTabbedVolumeFile: True
+	GridSpacing: 1.0
+	NumProcessors: 8
+	DistanceCutoff: 1.09
+	OutputFilenamePrefix: ./output/POVME_
+	PDBFileName: /home/german/labo/16/Benchmarks_ANA/ndd_check/pdbs/avg_1prn.pdb
+	ConvexHullExclusion: False
+	ContiguousPointsCriteria: 3
+	CompressOutput: False
+
+Generating the pocket-encompassing point field
+
+Saving the point field as a PDB and NPY file
+	Point field saved to ./output/POVME_point_field.pdb to permit visualization
+	Point field saved to ./output/POVME_point_field.pdb.npy to optionally load for the volume calculation
+
+
+Reading frames from /home/german/labo/16/Benchmarks_ANA/ndd_check/pdbs/avg_1prn.pdb
+	Further processing frame 1
+
+Calculating the pocket volume of each frame
+	Frame 1: 4186.0 A^3
+
+FRAME        | VOLUME (A^3)
+-------------+-------------
+1            | 4186.0
+
+Execution time = 1.87254786491 sec
+
+
+If you use POVME in your research, please cite the following reference:
+  Durrant, J. D., C. A. de Oliveira, et al. (2011). "POVME: An algorithm
+  for measuring binding-pocket volumes." J Mol Graph Model 29(5): 773-776.
+
+Parameters:
+	UseDiskNotMemory: False
+	SavePoints: True
+	PointsIncludeRegions: sphere at (36.0, 39.0, 36.0), radius = 14.0
+	OutputEqualNumPointsPerFrame: True
+	SaveVolumetricDensityMap: True
+	SavePocketVolumesTrajectory: True
+	SaveIndividualPocketVolumes: True
+	SaveTabbedVolumeFile: True
+	GridSpacing: 1.0
+	NumProcessors: 8
+	DistanceCutoff: 1.09
+	OutputFilenamePrefix: ./output/POVME_
+	PDBFileName: /home/german/labo/16/Benchmarks_ANA/ndd_check/pdbs/traj_1prn.pdb
+	ConvexHullExclusion: False
+	ContiguousPointsCriteria: 3
+	CompressOutput: False
+
+Generating the pocket-encompassing point field
+
+Saving the point field as a PDB and NPY file
+	Point field saved to ./output/POVME_point_field.pdb to permit visualization
+	Point field saved to ./output/POVME_point_field.pdb.npy to optionally load for the volume calculation
+
+
+Reading frames from /home/german/labo/16/Benchmarks_ANA/ndd_check/pdbs/traj_1prn.pdb
+	Further processing frame 1
+	Further processing frame 3
+	Further processing frame 2
+	Further processing frame 5
+	Further processing frame 8
+	Further processing frame 7
+	Further processing frame 6
+	Further processing frame 4
+	Further processing frame 9
+	Further processing frame 11
+	Further processing frame 10
+
+Calculating the pocket volume of each frame
+	Frame 8: 4169.0 A^3
+	Frame 7: 4173.0 A^3
+	Frame 4: 4207.0 A^3
+	Frame 5: 4199.0 A^3
+	Frame 1: 4201.0 A^3
+	Frame 6: 4186.0 A^3
+	Frame 9: 4162.0 A^3
+	Frame 3: 4204.0 A^3
+	Frame 10: 4163.0 A^3
+	Frame 2: 4204.0 A^3
+	Frame 11: 4156.0 A^3
+
+FRAME        | VOLUME (A^3)
+-------------+-------------
+1            | 4201.0
+2            | 4204.0
+3            | 4204.0
+4            | 4207.0
+5            | 4199.0
+6            | 4186.0
+7            | 4173.0
+8            | 4169.0
+9            | 4162.0
+10           | 4163.0
+11           | 4156.0
+
+Execution time = 4.50345611572 sec
+
+
+If you use POVME in your research, please cite the following reference:
+  Durrant, J. D., C. A. de Oliveira, et al. (2011). "POVME: An algorithm
+  for measuring binding-pocket volumes." J Mol Graph Model 29(5): 773-776.
+
+Parameters:
+	UseDiskNotMemory: False
+	SavePoints: True
+	PointsIncludeRegions: sphere at (36.0, 39.0, 36.0), radius = 14.0
+	OutputEqualNumPointsPerFrame: True
+	SaveVolumetricDensityMap: True
+	SavePocketVolumesTrajectory: True
+	SaveIndividualPocketVolumes: True
+	SaveTabbedVolumeFile: True
+	GridSpacing: 1.0
+	NumProcessors: 8
+	DistanceCutoff: 1.09
+	OutputFilenamePrefix: ./output/POVME_
+	PDBFileName: /home/german/labo/16/Benchmarks_ANA/ndd_check/pdbs/traj_1prn.pdb
+	ConvexHullExclusion: False
+	ContiguousPointsCriteria: 3
+	CompressOutput: False
+
+Generating the pocket-encompassing point field
+
+Saving the point field as a PDB and NPY file
+	Point field saved to ./output/POVME_point_field.pdb to permit visualization
+	Point field saved to ./output/POVME_point_field.pdb.npy to optionally load for the volume calculation
+
+
+Reading frames from /home/german/labo/16/Benchmarks_ANA/ndd_check/pdbs/traj_1prn.pdb
+
+If you use POVME in your research, please cite the following reference:
+  Durrant, J. D., C. A. de Oliveira, et al. (2011). "POVME: An algorithm
+  for measuring binding-pocket volumes." J Mol Graph Model 29(5): 773-776.
+
+Parameters:
+	UseDiskNotMemory: False
+	SavePoints: True
+	PointsIncludeRegions: sphere at (36.0, 39.0, 36.0), radius = 14.0
+	OutputEqualNumPointsPerFrame: True
+	SaveVolumetricDensityMap: True
+	SavePocketVolumesTrajectory: True
+	SaveIndividualPocketVolumes: True
+	SaveTabbedVolumeFile: True
+	GridSpacing: 1.0
+	NumProcessors: 8
+	DistanceCutoff: 1.09
+	OutputFilenamePrefix: ./output/POVME_
+	PDBFileName: /home/german/labo/16/Benchmarks_ANA/ndd_check/pdbs/1prn_traj.pdb
+	ConvexHullExclusion: False
+	ContiguousPointsCriteria: 3
+	CompressOutput: False
+
+Generating the pocket-encompassing point field
+
+Saving the point field as a PDB and NPY file
+	Point field saved to ./output/POVME_point_field.pdb to permit visualization
+	Point field saved to ./output/POVME_point_field.pdb.npy to optionally load for the volume calculation
+
+
+Reading frames from /home/german/labo/16/Benchmarks_ANA/ndd_check/pdbs/1prn_traj.pdb
+	Further processing frame 4
+	Further processing frame 2
+	Further processing frame 6
+	Further processing frame 1
+	Further processing frame 3
+	Further processing frame 5
+	Further processing frame 8
+	Further processing frame 7
+	Further processing frame 10
+	Further processing frame 9
+	Further processing frame 11
+
+Calculating the pocket volume of each frame
+	Frame 5: 4183.0 A^3
+	Frame 4: 4181.0 A^3
+	Frame 6: 4186.0 A^3
+	Frame 10: 4184.0 A^3
+	Frame 2: 4181.0 A^3
+	Frame 3: 4182.0 A^3
+	Frame 7: 4186.0 A^3
+	Frame 8: 4184.0 A^3
+	Frame 9: 4184.0 A^3
+	Frame 11: 4183.0 A^3
+	Frame 1: 4185.0 A^3
+
+FRAME        | VOLUME (A^3)
+-------------+-------------
+1            | 4185.0
+2            | 4181.0
+3            | 4182.0
+4            | 4181.0
+5            | 4183.0
+6            | 4186.0
+7            | 4186.0
+8            | 4184.0
+9            | 4184.0
+10           | 4184.0
+11           | 4183.0
+
+Execution time = 4.43996191025 sec
+
+
+If you use POVME in your research, please cite the following reference:
+  Durrant, J. D., C. A. de Oliveira, et al. (2011). "POVME: An algorithm
+  for measuring binding-pocket volumes." J Mol Graph Model 29(5): 773-776.
+
+Parameters:
+	UseDiskNotMemory: False
+	SavePoints: True
+	PointsIncludeRegions: sphere at (36.0, 39.0, 36.0), radius = 14.0
+	OutputEqualNumPointsPerFrame: True
+	SaveVolumetricDensityMap: True
+	SavePocketVolumesTrajectory: True
+	SaveIndividualPocketVolumes: True
+	SaveTabbedVolumeFile: True
+	GridSpacing: 1.0
+	NumProcessors: 8
+	DistanceCutoff: 1.09
+	OutputFilenamePrefix: ./output/POVME_
+	PDBFileName: /home/german/labo/16/Benchmarks_ANA/ndd_check/pdbs/1prn_traj.pdb
+	ConvexHullExclusion: False
+	ContiguousPointsCriteria: 3
+	CompressOutput: False
+
+Generating the pocket-encompassing point field
+
+Saving the point field as a PDB and NPY file
+	Point field saved to ./output/POVME_point_field.pdb to permit visualization
+	Point field saved to ./output/POVME_point_field.pdb.npy to optionally load for the volume calculation
+
+
+Reading frames from /home/german/labo/16/Benchmarks_ANA/ndd_check/pdbs/1prn_traj.pdb
+	Further processing frame 1
+	Further processing frame 3
+	Further processing frame 2
+	Further processing frame 5
+	Further processing frame 6
+	Further processing frame 7
+	Further processing frame 4
+	Further processing frame 8
+	Further processing frame 10
+	Further processing frame 9
+	Further processing frame 11
+
+Calculating the pocket volume of each frame
+	Frame 7: 4186.0 A^3
+	Frame 10: 4184.0 A^3
+	Frame 5: 4186.0 A^3
+	Frame 6: 4188.0 A^3
+	Frame 8: 4185.0 A^3
+	Frame 1: 4181.0 A^3
+	Frame 4: 4184.0 A^3
+	Frame 2: 4182.0 A^3
+	Frame 11: 4183.0 A^3
+	Frame 9: 4184.0 A^3
+	Frame 3: 4183.0 A^3
+
+FRAME        | VOLUME (A^3)
+-------------+-------------
+1            | 4181.0
+2            | 4182.0
+3            | 4183.0
+4            | 4184.0
+5            | 4186.0
+6            | 4188.0
+7            | 4186.0
+8            | 4185.0
+9            | 4184.0
+10           | 4184.0
+11           | 4183.0
+
+Execution time = 4.68546390533 sec
+
+
+If you use POVME in your research, please cite the following reference:
+  Durrant, J. D., C. A. de Oliveira, et al. (2011). "POVME: An algorithm
+  for measuring binding-pocket volumes." J Mol Graph Model 29(5): 773-776.
+
+Parameters:
+	UseDiskNotMemory: False
+	SavePoints: True
+	PointsIncludeRegions: sphere at (36.0, 39.0, 36.0), radius = 14.0
+	OutputEqualNumPointsPerFrame: True
+	SaveVolumetricDensityMap: True
+	SavePocketVolumesTrajectory: True
+	SaveIndividualPocketVolumes: True
+	SaveTabbedVolumeFile: True
+	GridSpacing: 1.0
+	NumProcessors: 8
+	DistanceCutoff: 1.09
+	OutputFilenamePrefix: ./output/POVME_
+	PDBFileName: /home/german/labo/16/Benchmarks_ANA/ndd_check/pdbs/1prn_traj.pdb
+	ConvexHullExclusion: False
+	ContiguousPointsCriteria: 3
+	CompressOutput: False
+
+Generating the pocket-encompassing point field
+
+Saving the point field as a PDB and NPY file
+	Point field saved to ./output/POVME_point_field.pdb to permit visualization
+	Point field saved to ./output/POVME_point_field.pdb.npy to optionally load for the volume calculation
+
+
+Reading frames from /home/german/labo/16/Benchmarks_ANA/ndd_check/pdbs/1prn_traj.pdb
+	Further processing frame 1
+	Further processing frame 2
+	Further processing frame 5
+	Further processing frame 4
+	Further processing frame 7
+	Further processing frame 6
+	Further processing frame 3
+	Further processing frame 8
+	Further processing frame 9
+
+Calculating the pocket volume of each frame
+	Frame 4: 4184.0 A^3
+	Frame 2: 4182.0 A^3
+	Frame 6: 4188.0 A^3
+	Frame 5: 4186.0 A^3
+	Frame 1: 4181.0 A^3
+	Frame 7: 4186.0 A^3
+	Frame 3: 4183.0 A^3
+	Frame 8: 4185.0 A^3
+	Frame 9: 4184.0 A^3
+
+FRAME        | VOLUME (A^3)
+-------------+-------------
+1            | 4181.0
+2            | 4182.0
+3            | 4183.0
+4            | 4184.0
+5            | 4186.0
+6            | 4188.0
+7            | 4186.0
+8            | 4185.0
+9            | 4184.0
+
+Execution time = 4.44498705864 sec
+
+
+If you use POVME in your research, please cite the following reference:
+  Durrant, J. D., C. A. de Oliveira, et al. (2011). "POVME: An algorithm
+  for measuring binding-pocket volumes." J Mol Graph Model 29(5): 773-776.
+
+Parameters:
+	UseDiskNotMemory: False
+	SavePoints: True
+	PointsIncludeRegions: sphere at (36.0, 39.0, 36.0), radius = 14.0
+	OutputEqualNumPointsPerFrame: True
+	SaveVolumetricDensityMap: True
+	SavePocketVolumesTrajectory: True
+	SaveIndividualPocketVolumes: True
+	SaveTabbedVolumeFile: True
+	GridSpacing: 1.0
+	NumProcessors: 8
+	DistanceCutoff: 1.09
+	OutputFilenamePrefix: ./output/POVME_
+	PDBFileName: /home/german/labo/16/Benchmarks_ANA/ndd_check/pdbs/1prn_traj.pdb
+	ConvexHullExclusion: False
+	ContiguousPointsCriteria: 3
+	CompressOutput: False
+
+Generating the pocket-encompassing point field
+
+Saving the point field as a PDB and NPY file
+	Point field saved to ./output/POVME_point_field.pdb to permit visualization
+	Point field saved to ./output/POVME_point_field.pdb.npy to optionally load for the volume calculation
+
+
+Reading frames from /home/german/labo/16/Benchmarks_ANA/ndd_check/pdbs/1prn_traj.pdb
+	Further processing frame 1
+	Further processing frame 2
+	Further processing frame 3
+	Further processing frame 6
+	Further processing frame 5
+	Further processing frame 7
+	Further processing frame 4
+	Further processing frame 8
+	Further processing frame 9
+
+Calculating the pocket volume of each frame
+	Frame 3: 4183.0 A^3
+	Frame 7: 4186.0 A^3
+	Frame 5: 4186.0 A^3
+	Frame 4: 4184.0 A^3
+	Frame 2: 4182.0 A^3
+	Frame 6: 4188.0 A^3
+	Frame 1: 4181.0 A^3
+	Frame 8: 4185.0 A^3
+	Frame 9: 4184.0 A^3
+
+FRAME        | VOLUME (A^3)
+-------------+-------------
+1            | 4181.0
+2            | 4182.0
+3            | 4183.0
+4            | 4184.0
+5            | 4186.0
+6            | 4188.0
+7            | 4186.0
+8            | 4185.0
+9            | 4184.0
+
+Execution time = 4.74038696289 sec
+
+
+If you use POVME in your research, please cite the following reference:
+  Durrant, J. D., C. A. de Oliveira, et al. (2011). "POVME: An algorithm
+  for measuring binding-pocket volumes." J Mol Graph Model 29(5): 773-776.
+
+Parameters:
+	UseDiskNotMemory: False
+	SavePoints: True
+	PointsIncludeRegions: sphere at (36.0, 39.0, 36.0), radius = 14.0
+	OutputEqualNumPointsPerFrame: True
+	SaveVolumetricDensityMap: True
+	SavePocketVolumesTrajectory: True
+	SaveIndividualPocketVolumes: True
+	SaveTabbedVolumeFile: True
+	GridSpacing: 1.0
+	NumProcessors: 8
+	DistanceCutoff: 1.09
+	OutputFilenamePrefix: ./output/POVME_
+	PDBFileName: /home/german/labo/16/Benchmarks_ANA/ndd_check/pdbs/1prn_traj.pdb
+	ConvexHullExclusion: False
+	ContiguousPointsCriteria: 3
+	CompressOutput: False
+
+Generating the pocket-encompassing point field
+
+Saving the point field as a PDB and NPY file
+	Point field saved to ./output/POVME_point_field.pdb to permit visualization
+	Point field saved to ./output/POVME_point_field.pdb.npy to optionally load for the volume calculation
+
+
+Reading frames from /home/german/labo/16/Benchmarks_ANA/ndd_check/pdbs/1prn_traj.pdb
+	Further processing frame 5
+	Further processing frame 1
+	Further processing frame 2
+	Further processing frame 8
+	Further processing frame 4
+	Further processing frame 3
+	Further processing frame 6
+	Further processing frame 7
+	Further processing frame 9
+
+Calculating the pocket volume of each frame
+	Frame 5: 4186.0 A^3
+	Frame 4: 4187.0 A^3
+	Frame 8: 4183.0 A^3
+	Frame 2: 4189.0 A^3
+	Frame 1: 4189.0 A^3
+	Frame 6: 4183.0 A^3
+	Frame 7: 4182.0 A^3
+	Frame 3: 4188.0 A^3
+	Frame 9: 4181.0 A^3
+
+FRAME        | VOLUME (A^3)
+-------------+-------------
+1            | 4189.0
+2            | 4189.0
+3            | 4188.0
+4            | 4187.0
+5            | 4186.0
+6            | 4183.0
+7            | 4182.0
+8            | 4183.0
+9            | 4181.0
+
+Execution time = 4.87383103371 sec
+
